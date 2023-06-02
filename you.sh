@@ -6,8 +6,8 @@ git init
 git branch -M main
 git add .
 git commit -m "we love to commit"
-git remote add origin https://github.com/Aolajre/k8s_kops.git
-git push -uf origin main
+git remote add originn https://github.com/Aolajre/k8s_kops.git
+git push -uf originn main
 #Output from config 
 git status
 git remote -v
